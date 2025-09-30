@@ -1,0 +1,12 @@
+D:\lab\Projekt3\Projekt3\bin\Debug\Projekt3.exe.config
+D:\lab\Projekt3\Projekt3\bin\Debug\Projekt3.exe
+D:\lab\Projekt3\Projekt3\bin\Debug\Projekt3.pdb
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.csproj.AssemblyReference.cache
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.KokpitProjektuNr3.resources
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.Properties.Resources.resources
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.csproj.GenerateResource.cache
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.csproj.CoreCompileInputs.cache
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.exe
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.pdb
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.RysownicaLab.resources
+D:\lab\Projekt3\Projekt3\obj\Debug\Projekt3.ProjektNr3_Nakonechna68940.resources
